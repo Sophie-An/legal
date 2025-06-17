@@ -1,0 +1,10 @@
+# Core dependencies
+python-docx
+sentence-transformers
+numpy
+
+# Optional but recommended for GPU acceleration (if using PyTorch)
+torch
+
+# Streamlit for UI, if you're using a web app interface
+streamlit
